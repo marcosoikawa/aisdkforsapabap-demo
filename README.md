@@ -12,16 +12,16 @@ AI SDK for SAP is a software development kit (SDK) designed to provide SAP ABAP 
 Microsoft AI SDK for SAP ABAP is designed to be user-friendly, with an intuitive interface that allows developers to easily integrate AI capabilities into ABAP applications. 
 
 Current version is **2.0**, and supports the following AI Engines: 
-- Azure Open AI 
+- Azure OpenAI 
 - Open AI.
 ---
 
-##  <font color="lightblue"> What is Azure Open AI?
+##  <font color="lightblue"> What is Azure OpenAI?
 
-Azure Open AI is a comprehensive set of AI services and tools provided by Microsoft Azure. It includes powerful machine learning algorithms, natural language processing tools, and cognitive services that can be used to build intelligent applications that can recognize patterns, process natural language, and make predictions based on data. Azure Open AI features pre-built AI models and algorithms, as well as tools for custom model training and deployment.
+Azure OpenAI is a comprehensive set of AI services and tools provided by Microsoft Azure. It includes powerful machine learning algorithms, natural language processing tools, and cognitive services that can be used to build intelligent applications that can recognize patterns, process natural language, and make predictions based on data. Azure OpenAI features pre-built AI models and algorithms, as well as tools for custom model training and deployment.
 </font>
 
-**[Azure Open AI security, compliance, and data privacy](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext).**
+**[Azure OpenAI security, compliance, and data privacy](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext).**
 
 
 
